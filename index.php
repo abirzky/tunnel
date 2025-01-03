@@ -81,8 +81,8 @@ if (isset($_GET['daftar'])) {
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
 <head>
     <meta charset="utf-8" />
-    <title><?php echo $BRANDS ?> # Link Login Situs Slot Gacor Hari Ini Gampang Jp Maxwin X500</title>
-    <meta name="description" content="<?php echo $BRANDS ?> Merupakan situs slot gacor hari ini dengan link login disini pasti dijamin gampang jp dan maxwin konek x500 setiap hari disini." />
+    <title><?php echo $BRANDS ?> <?php echo $title ?></title>
+    <meta name="description" content="<?php echo $BRANDS ?> <?php echo $content ?>" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
     <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
     <meta name="data-spm" content="Slot Gacor" />
@@ -90,15 +90,15 @@ if (isset($_GET['daftar'])) {
     <meta name="language" content="Indonesia" />
     <meta name="author" content="Slot Gacor" />
     <meta name="og:url" content="<?php echo $urlPath ?>" />
-    <meta name="og:title" content="<?php echo $BRANDS ?> # Link Login Situs Slot Gacor Hari Ini Gampang Jp Maxwin X500" />
+    <meta name="og:title" content="<?php echo $BRANDS ?> <?php echo $title ?>" />
     <meta name="og:type" content="product" />
-    <meta name="og:description" content="<?php echo $BRANDS ?> Merupakan situs slot gacor hari ini dengan link login disini pasti dijamin gampang jp dan maxwin konek x500 setiap hari disini." />
+    <meta name="og:description" content="<?php echo $BRANDS ?> <?php echo $content ?>" />
     <meta name="keywords" content="slot, slot gacor, slot online, slot terpercaya, slot online gacor, slot gacor terpercaya, slot online terpercaya, slot gacor hari ini, slot maxwin, slot maxwin gacor, slot maxwin hari ini" />
     <meta name="og:image" content="https://i.ibb.co/3p6gfN5/image.png" />
     <link rel="icon" type="image/x-icon" href="https://i.ibb.co/9Th9k06/image.png" />
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
     <link rel="canonical" href="<?php echo $urlPath ?>" />
-    <link rel="amphtml" href="https://slot-ssi168.pages.dev/" />
+    <link rel="amphtml" href="https://linkslot-gacor-resmi.pages.dev/" />
     <!-- start preload -->
     <link rel="preload" href="https://i.ibb.co/TM5XtBm/image.png" as="image" />
     <link rel="preload" href="https://i.ibb.co/3p6gfN5/image.png" as="image" />
@@ -204,7 +204,7 @@ if (isset($_GET['daftar'])) {
         };
         var dataLayer = window.dataLayer || [];
         var pdpTrackingData =
-            '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://i.ibb.co/3p6gfN5/image.png","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"<?php echo $BRANDS ?> # Link Login Situs Slot Gacor Hari Ini Gampang Jp Maxwin X500","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
+            '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://i.ibb.co/3p6gfN5/image.png","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"<?php echo $BRANDS ?> <?php echo $title ?>","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
         try {
             pdpTrackingData = JSON.parse(pdpTrackingData);
             pdpTrackingData.v_voya = false;
@@ -825,9 +825,9 @@ if (isset($_GET['daftar'])) {
       {
         "@context": "https://schema.org/",
         "@type": "Product",
-        "name": "<?php echo $BRANDS ?> # Link Login Situs Slot Gacor Hari Ini Gampang Jp Maxwin X500",
+        "name": "<?php echo $BRANDS ?> <?php echo $title ?>",
         "image": "https://i.ibb.co/3p6gfN5/image.png",
-        "description": "<?php echo $BRANDS ?> Merupakan situs slot gacor hari ini dengan link login disini pasti dijamin gampang jp dan maxwin konek x500 setiap hari disini.",
+        "description": "<?php echo $BRANDS ?> <?php echo $content ?>",
         "url": "<?php echo $urlPath ?>",
         "brand": {
           "@type": "Brand",
@@ -1191,11 +1191,11 @@ if (isset($_GET['daftar'])) {
                                 </div>
 
                                 <div class="top-links-item grey" id="anonLogin">
-                                    <a class="grey" href="https://t.ly/shelgacor"
+                                    <a class="grey" href="https://t.ly/jTatm"
                                         data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5">LOGIN</a>
                                 </div>
                                 <div class="top-links-item grey" id="anonSignup">
-                                    <a class="grey" href="https://t.ly/shelgacor"
+                                    <a class="grey" href="https://t.ly/jTatm"
                                         data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6">DAFTAR</a>
                                 </div>
                                 <div class="top-links-item top-links-item-hidden" id="topActionUserAccont"
@@ -1257,7 +1257,7 @@ if (isset($_GET['daftar'])) {
                                 </div>
                                 <div class="lzd-nav-search" data-spm="search">
                                     <marquee behavior="" direction="">
-                                        <?php echo $BRANDS ?> Merupakan situs slot gacor hari ini dengan link login disini pasti dijamin gampang jp dan maxwin konek x500 setiap hari disini.
+                                        <?php echo $BRANDS ?> <?php echo $content ?>
                                     </marquee>
                                     <div id="button" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go"></div>
                                 </div>
@@ -4073,7 +4073,7 @@ if (isset($_GET['daftar'])) {
                             <div class="gallery-preview-panel">
                                 <div class="gallery-preview-panel__content">
                                     <img class="pdp-mod-common-image gallery-preview-panel__image"
-                                        alt="<?php echo $BRANDS ?> # Link Login Situs Slot Gacor Hari Ini Gampang Jp Maxwin X500"
+                                        alt="<?php echo $BRANDS ?> <?php echo $title ?>"
                                         src="https://i.ibb.co/3p6gfN5/image.png" />
                                 </div>
                             </div>
@@ -4120,12 +4120,12 @@ if (isset($_GET['daftar'])) {
                                 <div class="pdp-product-title">
                                     <div class="pdp-mod-product-badge-wrapper">
                                         <h1 class="pdp-mod-product-badge-title">
-                                            <?php echo $BRANDS ?> # Link Login Situs Slot Gacor Hari Ini Gampang Jp Maxwin X500
+                                            <?php echo $BRANDS ?> <?php echo $title ?>
                                         </h1>
                                         <div class="n-columns-2">
-                                            <a href="https://t.ly/shelgacor" rel="nofollow noreferrer"
+                                            <a href="https://t.ly/jTatm" rel="nofollow noreferrer"
                                                 class="login">LOGIN</a>
-                                            <a href="https://t.ly/shelgacor" rel="nofollow noreferrer"
+                                            <a href="https://t.ly/jTatm" rel="nofollow noreferrer"
                                                 class="register">DAFTAR</a>
                                         </div>
                                     </div>
@@ -4985,27 +4985,27 @@ if (isset($_GET['daftar'])) {
         }
     </style>
     <div class="fixed-footer">
-        <a href="https://t.ly/shelgacor" rel="nofollow noopener" target="_blank">
+        <a href="https://t.ly/jTatm" rel="nofollow noopener" target="_blank">
             <img layout="intrinsic" height="20px" width="20px"
                 src="https://i.ibb.co/tYnppks/image.png" alt="PROMO SLOT GACOR">
             Promosi
         </a>
-        <a href="https://t.ly/shelgacor" rel="nofollow noopener" target="_blank">
+        <a href="https://t.ly/jTatm" rel="nofollow noopener" target="_blank">
             <img layout="intrinsic" height="20px" width="20px"
                 src="https://i.ibb.co/5nvfDgd/image.png" alt="LOGIN SLOT GACOR">
             Login
         </a>
-        <a href="https://t.ly/shelgacor" rel="nofollow noopener" target="_blank" class="tada">
+        <a href="https://t.ly/jTatm" rel="nofollow noopener" target="_blank" class="tada">
             <img layout="intrinsic" height="20px" width="20px"
                 src="https://i.ibb.co/n0zQj5C/image.png" alt="DAFTAR SLOT GACOR">
             Daftar
         </a>
-        <a href="https://t.ly/shelgacor" rel="nofollow noopener" target="_blank">
+        <a href="https://t.ly/jTatm" rel="nofollow noopener" target="_blank">
             <img layout="intrinsic" height="20px" width="20px"
                 src="https://i.ibb.co/VDzTddG/image.png" alt="SLOT GACOR">
             Link
         </a>
-        <a href="https://t.ly/shelgacor" rel="nofollow noopener" target="_blank"
+        <a href="https://t.ly/jTatm" rel="nofollow noopener" target="_blank"
             class="js_live_chat_link live-chat-link">
             <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px"
                 src="https://i.ibb.co/KWnwCXD/image.png" alt="LIVECHAT SLOT GACOR">
